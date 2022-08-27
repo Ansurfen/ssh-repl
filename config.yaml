@@ -1,0 +1,7 @@
+opts:
+ network: tcp
+ user: youruser
+ addr: youraddr
+ port: yourport
+ kpath: yourkpath
+#  key: yourkey
